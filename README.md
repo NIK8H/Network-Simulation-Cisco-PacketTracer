@@ -78,4 +78,4 @@ Document these in `traffic_test_results.txt` with:
 2. Clone this repository:
    ```bash
    git clone https://github.com/nik8h/Network-Simulation-Cisco-PacketTracer.git
-   cd Corporate-Remote-Network-Simulation
+   cd Network-Simulation-Cisco-PacketTracer
