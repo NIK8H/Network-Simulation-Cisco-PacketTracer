@@ -1,6 +1,5 @@
 # Network-Simulation-Cisco-PacketTracer
 This project demonstrates setting up Ethernet‑ or Serial‑linked routers/switches, subnet segmentation for site‑to‑site connectivity, static routing, and Local / Site‑to‑Site traffic testing (ping, traceroute), illustrating inter‑office and intra‑office network functionality.
-# Corporate-Remote-Network-Simulation
 
 A Cisco Packet Tracer simulation connecting a corporate office with three remote offices.  
 This repo includes topology files, documentation, and testing procedures.
@@ -78,5 +77,5 @@ Document these in `traffic_test_results.txt` with:
 1. Install Cisco Packet Tracer (version X.X or higher)  
 2. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Corporate-Remote-Network-Simulation.git
+   git clone https://github.com/nik8h/Network-Simulation-Cisco-PacketTracer.git
    cd Corporate-Remote-Network-Simulation
